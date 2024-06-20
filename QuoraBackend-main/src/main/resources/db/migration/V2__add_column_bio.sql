@@ -1,0 +1,2 @@
+ALTER TABLE user
+    ADD bio VARCHAR(255) NULL;
